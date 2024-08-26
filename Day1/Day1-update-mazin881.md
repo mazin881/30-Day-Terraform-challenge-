@@ -3,7 +3,7 @@
 ## Participant Details
 - **Name:** Mazin Kamil
 - **Task Completed:** Introduction to Terraform and IaC
-- **Date and Time:** 26-08-2024 10:10
+- **Date and Time:** 26-08-2024 13:27
 
 ## Additional Notes
-- It's a good milestone toward to review Chapter 1 to get a summary for DevOps and IaC.
+- It's a good milestone toward reviewing Chapter 1 to get a summary for DevOps and IaC.
