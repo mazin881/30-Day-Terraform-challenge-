@@ -1,9 +1,9 @@
 # Day 1: Introduction to Terraform and Infrastructure as Code (IaC)
 
 ## Participant Details
-- **Name:** [Full Name]
+- **Name:** Mazin Kamil
 - **Task Completed:** Introduction to Terraform and IaC
-- **Date and Time:** Date and Time]
+- **Date and Time:** 26-08-2024 10:10
 
 ## Additional Notes
-- [Any additional comments or observations about the task]
+- It's a good milestone toward to review Chapter 1 to get a summary for DevOps and IaC.
